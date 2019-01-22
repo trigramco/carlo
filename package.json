@@ -20,7 +20,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "debug": "^4.1.0",
-    "puppeteer-core": "^1.9.0"
+    "puppeteer-core": "https://github.com/trigramco/puppeteer.git#chrome-apps"
   },
   "devDependencies": {
     "eslint": "^5.8.0",
