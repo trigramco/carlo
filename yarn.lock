@@ -606,7 +606,7 @@ punycode@^2.1.0:
 
 "puppeteer-core@https://github.com/trigramco/puppeteer.git#chrome-apps":
   version "1.11.0-post"
-  resolved "https://github.com/trigramco/puppeteer.git#d1998f48d3bf8826505b2b49da98b139a5c0c75e"
+  resolved "https://github.com/trigramco/puppeteer.git#89c140f7aac4ad29e1a05c9ec6864fcde411dcba"
   dependencies:
     debug "^4.1.0"
     extract-zip "^1.6.6"
